@@ -1,8 +1,5 @@
 # AWS Ubuntu Server Setup with Dockerised Spring Boot Web Application
 
-Owner: Chaw Theingi
-Created time: June 18, 2025 4:58 PM
-
 ## 📝 Overview
 
 This project demonstrates how to deploy a simple web application using Docker on an Ubuntu server hosted on AWS EC2. It includes setting up secure SSH access, firewall rules via AWS Security Groups, and pushing the Docker image to DockerHub for portability and version control.
